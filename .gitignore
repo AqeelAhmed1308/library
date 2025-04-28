@@ -1,0 +1,16 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore migration files
+__pycache__/
+*.pyc
+
+# Ignore media files (optional)
+media/
+
+# Ignore other files you don't want to track (optional)
+.DS_Store
+*.log
